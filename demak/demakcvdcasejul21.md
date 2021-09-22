@@ -1164,4 +1164,5 @@ abline(lm(data$MENINGGAL ~ data$SUSPEK,
 # Machine Learning
 # Dosen : Totok Chamidy, M.Kom
 # Muhammad Syaiful Anwar 
+# 2021
 ```
