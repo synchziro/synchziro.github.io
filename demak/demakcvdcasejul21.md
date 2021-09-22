@@ -1156,3 +1156,12 @@ abline(lm(data$MENINGGAL ~ data$SUSPEK,
 ![png](output_8_0.png)
     
 
+
+
+```R
+# Magister Teknik Informatika
+# Universitas Islam Negeri Maulana Malik Ibrahim Malang
+# Machine Learning
+# Dosen : Totok Chamidy, M.Kom
+# Muhammad Syaiful Anwar 
+```
