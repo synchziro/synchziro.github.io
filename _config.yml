@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 logo: /assets/img/logo.png
 title: R PlayGround
 description: Testing & Educational Purpose
+show_downloads: true
