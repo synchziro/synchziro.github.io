@@ -6,6 +6,7 @@
 
 ### Python
 - [Loading Data Sample](/loadingdata/sampleloadingdata.md)
+- [Fatalities in the Israel-Palestine Conflict](/fatalities/fatalities.md)
 
 ### Arduino
 - [Arduino-Radar](https://github.com/synchziro/arduino-radar)
